@@ -6,4 +6,6 @@ lib
 fp___.err
 fp___.out
 
+*.tud
+#resource\udata.tud
 #udata.tud
