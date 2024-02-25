@@ -1,11 +1,11 @@
 backup
-bin
+#bin
 lib
 *.bak
 #*.exe
 fp___.err
 fp___.out
 
-*.tud
+#*.tud
 #resource\udata.tud
 #udata.tud
