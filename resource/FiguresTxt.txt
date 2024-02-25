@@ -1,0 +1,50 @@
+// FIGURES TEXT DATA
+// Number of figures
+7
+// Comment string -> skin -> figure height -> figure elements -> rotation point coords
+// I
+||
+4
+0
+0
+0
+0
+0 1
+// L
+()
+3
+0
+0
+00
+0 1
+// J
+<>
+3
+ 0
+ 0
+00
+1 1
+// S
+//
+2
+ 00
+00
+1 0
+// Z
+\\
+2
+00
+ 00
+1 0
+// T
+{}
+2
+000
+ 0
+1 1
+// O
+[]
+2
+00
+00
+0.5 0.5

@@ -1,0 +1,78 @@
+// Next figure. Labels: number -> labels (x, y, caption)
+1
+Next:
+// Scoreboard. Labels: number -> labels (x, y, caption)
+9
+Scoreboard:
+Lines:
+
+Score:
+
+Speed:
+
+Best score:
+0 - VSDev
+// Control keys board. Labels: number -> labels (x, y, caption)
+17
+Control keys:
+Move right:
+->
+Move left:
+<-
+Move down:
+V
+Drop down:
+Enter
+Rotate >:
+Space
+Rotate <:
+B.space
+Pause:
+P
+Menu:
+Escape
+////////// Main MENU CAPTIONS (caption/title -> buttons (0..n)): //////////
+
+New game
+Settings
+Quit
+////////// MESSAGES //////////
+Game over
+Are you shure you want to quit?
+Congratulations! You've got the best score!
+Enter your name: 
+Pause ||
+
+
+
+
+///////////////// OLD /////////////////////
+// Main menu captions: 
+Main menu
+New game
+Settings
+Quit
+// Next figure board caption:
+Next:
+// Scoreboard captions:
+Scoreboard:
+Lines:
+Score:
+Speed:
+Best score:
+
+// Control keys board captions:
+Control keys:
+Move right:
+Move left:
+Move down:
+Drop down:
+Rotate >:
+Rotate <:
+Pause:
+Menu:
+// Messages
+Game over
+Pause ||
+Are you shure you want to quit?
+

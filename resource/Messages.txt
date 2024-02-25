@@ -1,0 +1,6 @@
+////////// MESSAGES //////////
+Game over
+Are you shure you want to quit?
+Congratulations! You've got the best score!
+Enter your name: 
+Pause ||

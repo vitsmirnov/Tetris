@@ -1,0 +1,9 @@
+backup
+bin
+lib
+*.bak
+#*.exe
+fp___.err
+fp___.out
+
+#udata.tud

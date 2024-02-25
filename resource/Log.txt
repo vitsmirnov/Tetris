@@ -1,0 +1,99 @@
+15.03.2023 9:32:37 Error in TetrisEngine.TTetrisGameEngine.UpdateGameField2! LLines isn't empty.
+15.03.2023 9:32:42 Error in TetrisEngine.TTetrisGameEngine.UpdateGameField2! LLines isn't empty.
+15.03.2023 9:32:44 Error in TetrisEngine.TTetrisGameEngine.UpdateGameField2! LLines isn't empty.
+15.03.2023 9:33:06 Error in TetrisEngine.TTetrisGameEngine.UpdateGameField2! LLines isn't empty.
+15.03.2023 9:33:09 Error in TetrisEngine.TTetrisGameEngine.UpdateGameField2! LLines isn't empty.
+15.03.2023 9:33:12 Error in TetrisEngine.TTetrisGameEngine.UpdateGameField2! LLines isn't empty.
+15.03.2023 19:26:42 Finalization of TetrisEngine. Number of Elements: 4!
+18.03.2023 18:26:49 Finalization of TetrisEngine. Number of Elements: 4!
+19.03.2023 15:55:18 Finalization of TetrisEngine. Number of Elements: 12!
+19.03.2023 15:56:48 Finalization of TetrisEngine. Number of Elements: 22!
+19.03.2023 15:58:28 Finalization of TetrisEngine. Number of Elements: 12!
+19.03.2023 15:59:34 Finalization of TetrisEngine. Number of Elements: 16!
+19.03.2023 16:06:36 Finalization of TetrisEngine. Number of Elements: 4!
+19.03.2023 16:27:06 Finalization of TetrisEngine. Number of Elements: 8!
+19.03.2023 16:52:16 Finalization of TetrisEngine. Number of Elements: 32!
+26.03.2023 16:26:47 Finalization of TetrisEngine. Number of Elements: 2!
+26.03.2023 16:26:54 Finalization of TetrisEngine. Number of Elements: 2!
+26.03.2023 16:27:04 Finalization of TetrisEngine. Number of Elements: 2!
+26.03.2023 16:27:27 Finalization of TetrisEngine. Number of Elements: 2!
+27.03.2023 20:09:16 TElement.Destroy(class): Count = -1!
+27.03.2023 20:10:18 TElement.Destroy(class): Count = -1!
+27.03.2023 20:10:41 TElement.Destroy(class): Count = -1!
+27.03.2023 20:10:46 TElement.Destroy(class): Count = -1!
+27.03.2023 20:10:52 TElement.Destroy(class): Count = -1!
+27.03.2023 20:11:02 TElement.Destroy(class): Count = -1!
+27.03.2023 20:11:19 TElement.Destroy(class): Count = -1!
+27.03.2023 20:11:26 TElement.Destroy(class): Count = -1!
+27.03.2023 20:11:36 TElement.Destroy(class): Count = -1!
+27.03.2023 20:14:28 TElement.Destroy(class): Count = -1!
+27.03.2023 20:14:57 TElement.Destroy(class): Count = -1!
+27.03.2023 20:15:38 TElement.Destroy(class): Count = -1!
+27.03.2023 20:17:20 TElement.Destroy(class): Count = 1!
+18.04.2023 1:00:30 TElement.Destroy(class): Count = 32!
+24.04.2023 3:55:11 TElement.Destroy(class): Count = 28!
+27.04.2023 22:18:08 TElement.Destroy(class): Count = 28!
+27.04.2023 22:18:40 TElement.Destroy(class): Count = 28!
+27.04.2023 22:24:54 TElement.Destroy(class): Count = 28!
+27.04.2023 22:31:35 TElement.Destroy(class): Count = 28!
+27.04.2023 22:40:23 TElement.Destroy(class): Count = 28!
+27.04.2023 22:53:49 TElement.Destroy(class): Count = 28!
+27.04.2023 23:27:39 TElement.Destroy(class): Count = 28!
+27.04.2023 23:31:00 TElement.Destroy(class): Count = 28!
+27.04.2023 23:31:27 TElement.Destroy(class): Count = 28!
+27.04.2023 23:31:40 TElement.Destroy(class): Count = 28!
+27.04.2023 23:31:56 TElement.Destroy(class): Count = 28!
+27.04.2023 23:39:18 TElement.Destroy(class): Count = 28!
+28.04.2023 10:08:51 TElement.Destroy(class): Count = 28!
+28.04.2023 10:09:06 TElement.Destroy(class): Count = 28!
+28.04.2023 10:09:36 TElement.Destroy(class): Count = 28!
+28.04.2023 10:13:21 TElement.Destroy(class): Count = 28!
+28.04.2023 10:15:42 TElement.Destroy(class): Count = 28!
+28.04.2023 10:17:59 TElement.Destroy(class): Count = 28!
+28.04.2023 10:18:26 TElement.Destroy(class): Count = 28!
+28.04.2023 10:19:04 TElement.Destroy(class): Count = 28!
+28.04.2023 10:19:48 TElement.Destroy(class): Count = 28!
+28.04.2023 10:20:34 TElement.Destroy(class): Count = 28!
+28.04.2023 10:21:22 TElement.Destroy(class): Count = 32!
+28.04.2023 10:35:34 TElement.Destroy(class): Count = 28!
+28.04.2023 10:36:04 TElement.Destroy(class): Count = 28!
+28.04.2023 10:38:20 TElement.Destroy(class): Count = 28!
+28.04.2023 10:39:42 TElement.Destroy(class): Count = 28!
+28.04.2023 10:41:08 TElement.Destroy(class): Count = 28!
+28.04.2023 10:41:36 TElement.Destroy(class): Count = 28!
+28.04.2023 10:42:07 TElement.Destroy(class): Count = 28!
+28.04.2023 10:42:47 TElement.Destroy(class): Count = 28!
+28.04.2023 10:43:45 TElement.Destroy(class): Count = 28!
+28.04.2023 10:48:25 TElement.Destroy(class): Count = 28!
+28.04.2023 10:50:12 TElement.Destroy(class): Count = 28!
+28.04.2023 10:53:38 TElement.Destroy(class): Count = 32!
+28.04.2023 10:54:07 TElement.Destroy(class): Count = 28!
+28.04.2023 10:59:44 TElement.Destroy(class): Count = 28!
+28.04.2023 10:59:57 TElement.Destroy(class): Count = 28!
+28.04.2023 11:00:06 TElement.Destroy(class): Count = 28!
+28.04.2023 11:00:30 TElement.Destroy(class): Count = 28!
+28.04.2023 11:01:00 TElement.Destroy(class): Count = 28!
+28.04.2023 11:01:42 TElement.Destroy(class): Count = 28!
+28.04.2023 11:02:59 TElement.Destroy(class): Count = 28!
+28.04.2023 11:03:21 TElement.Destroy(class): Count = 28!
+28.04.2023 11:03:26 TElement.Destroy(class): Count = 28!
+28.04.2023 11:03:51 TElement.Destroy(class): Count = 28!
+28.04.2023 11:04:10 TElement.Destroy(class): Count = 28!
+28.04.2023 11:04:57 TElement.Destroy(class): Count = 28!
+28.04.2023 11:05:06 TElement.Destroy(class): Count = 28!
+28.04.2023 11:05:22 TElement.Destroy(class): Count = 28!
+28.04.2023 11:05:48 TElement.Destroy(class): Count = 28!
+28.04.2023 11:06:50 TElement.Destroy(class): Count = 32!
+28.04.2023 11:07:32 TElement.Destroy(class): Count = 32!
+28.04.2023 11:08:12 TElement.Destroy(class): Count = 28!
+28.04.2023 11:08:40 TElement.Destroy(class): Count = 32!
+28.04.2023 11:08:58 TElement.Destroy(class): Count = 32!
+28.04.2023 11:09:59 TElement.Destroy(class): Count = 32!
+28.04.2023 11:11:48 TElement.Destroy(class): Count = 32!
+28.04.2023 11:12:48 TElement.Destroy(class): Count = 28!
+28.04.2023 11:18:24 TElement.Destroy(class): Count = 28!
+28.04.2023 11:19:38 TElement.Destroy(class): Count = 28!
+28.04.2023 11:27:25 TElement.Destroy(class): Count = 28!
+28.04.2023 11:28:01 TElement.Destroy(class): Count = 28!
+28.04.2023 11:28:20 TElement.Destroy(class): Count = 28!
+28.04.2023 11:29:48 TElement.Destroy(class): Count = 28!

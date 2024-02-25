@@ -1,0 +1,13 @@
+// GAME (LOGIC) SETTINGS
+// Game field size (width, height) (int)
+10 25
+// Cup height (game over condition)
+20
+// Spawn position (x, y) (float)
+4.0 20.0
+// Start speed, delta speed (float), lines to change speed (int)
+3.5 0.2 5
+// Score rules (number of lines)
+5
+// Scores for lines (0, 1, 2, 3, 4) (int)
+10 100 300 700 1500

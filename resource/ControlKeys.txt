@@ -1,0 +1,13 @@
+////////// TControlKeys //////////
+11
+odiCKMoveRight 333
+odiCKMoveLeft 331
+odiCKMoveDown 336
+odiCKDropDown 13
+odiCKRotateRight 32
+odiCKRotateLeft 8
+odiCKPause 112
+odiCKMenu 27
+odiCKMoveUp 0
+odiCKChangeFigure 9
+odiCKChangeScreenSettingsSet 339

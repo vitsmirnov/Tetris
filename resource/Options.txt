@@ -1,0 +1,12 @@
+// Files list:
+GameSettings.txt
+Figures.txt
+UISettings.txt
+Captions.txt // or TUILeng.txt
+BestScore.tbs // or data.tbs
+
+// File paths
+
+resource\
+..\resource\
+..\..\..\resource\
